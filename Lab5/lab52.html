@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Laboratorio 5.2</title>
+</head>
+<body>
+    Ejemplo de subida de archivos al servidor web
+    <br/><br/>
+    <form action="lab52.php" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="max_file_size" value="1000000" /><br/><br/>
+        <input type="file" name="nombre_archivo_cliente" /><br/><br/>
+        <input type="submit" name="enviar" value="Enviar" /><br/><br/>
+        NOTA: El Archivo no debe superar 1MB y debe cumplir con extensiones tipo: jpg, jpeg, gif o png.
+    </form>
+</body>
+</html>
