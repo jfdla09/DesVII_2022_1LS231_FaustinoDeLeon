@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "637f8deb5759bafa040430f4"
+  },
+  "nombre": "carlos",
+  "apellido": "lopez",
+  "email": "lopez.carlos@correo.re",
+  "edad": 30
+},{
+  "_id": {
+    "$oid": "637f8e7c5759bafa040430f5"
+  },
+  "nombre": "manuel",
+  "apellido": "gomez",
+  "email": "gomezmanuel20@correo.com",
+  "edad": 27
+},{
+  "_id": {
+    "$oid": "637f8e955759bafa040430f6"
+  },
+  "nombre": "laura",
+  "apellido": "rios",
+  "email": "rios.laura@correo.mail",
+  "edad": 21
+}]
